@@ -1,3 +1,3 @@
 # Solving_algo
-Practicing & solving lots of algorithm problems
+Practicing & solving lots of algorithm problems<br />
 Boj / Swea / Programmers ...
