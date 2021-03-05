@@ -1,0 +1,3 @@
+# Solving_algo
+Practicing & solving lots of algorithm problems
+Boj / Swea / Programmers ...
