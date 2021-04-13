@@ -44,14 +44,14 @@ public class no9205 {
                     }
                 }
             }
-            if (bfs(map)) {
+            if (bfs()) {
                 System.out.println("happy");
             }else
                 System.out.println("sad");
         }
     }
 
-    static boolean bfs(boolean[][] map){
+    static boolean bfs(){
         q.offer(0);
         v[0] = true;
         while (!q.isEmpty()) {
