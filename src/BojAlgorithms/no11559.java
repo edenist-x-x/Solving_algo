@@ -58,12 +58,6 @@ public class no11559 {
             downPuyo(); // 매 루프 끝에, 즉 뿌요 다 터트리면 위에 뜬 애들 끌어내리기
         }
         System.out.println(sum);
-//        for(int i = 0; i < map.length; i++){
-//            for(int j = 0; j < map[0].length; j++){
-//                System.out.print(map[i][j]);
-//            }
-//            System.out.println();
-//        }
     }
 
     public static void bfs(Point p) {
